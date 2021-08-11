@@ -1,4 +1,4 @@
-# Static Octicons
+# Static Octicons [![npm version](http://img.shields.io/npm/v/static-octicons.svg?style=flat-square)](https://www.npmjs.org/package/static-octicons)
 
 > A static version of GitHub [Octicons](https://primer.style/octicons/).
 
